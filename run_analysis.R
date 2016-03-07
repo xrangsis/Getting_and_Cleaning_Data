@@ -6,8 +6,6 @@
 # 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
-setwd('/home/xay/R/Data/UCI HAR Dataset/');
-
 # 1. Merge the training and the test sets to create one data set.
 
 #Imports files
